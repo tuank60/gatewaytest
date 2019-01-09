@@ -1,0 +1,11 @@
+/home/tuan/gateway-master/Pi-OBUSoftware/build/WSAN/Images/Sensor
+/home/tuan/gateway-master/Pi-OBUSoftware/build/WSAN/dataHN.txt
+/home/tuan/gateway-master/Pi-OBUSoftware/build/WSAN/gps.txt
+/home/tuan/gateway-master/Pi-OBUSoftware/build/WSAN/history.txt
+/home/tuan/gateway-master/Pi-OBUSoftware/build/WSAN/log.txt
+/home/tuan/gateway-master/Pi-OBUSoftware/build/WSAN/timeDetect.txt
+ttyUSB0
+19200
+ttyUSB1
+9600
+	
