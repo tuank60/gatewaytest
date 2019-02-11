@@ -108,7 +108,7 @@ public:
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
         tabWidget = new QTabWidget(centralWidget);
         tabWidget->setObjectName(QString::fromUtf8("tabWidget"));
-        tabWidget->setGeometry(QRect(-20, -10, 721, 491));
+        tabWidget->setGeometry(QRect(0, 0, 721, 491));
         tab = new QWidget();
         tab->setObjectName(QString::fromUtf8("tab"));
         verticalLayoutWidget = new QWidget(tab);
@@ -124,7 +124,7 @@ public:
         btnExit->setGeometry(QRect(620, 400, 85, 27));
         lblImage = new QLabel(tab);
         lblImage->setObjectName(QString::fromUtf8("lblImage"));
-        lblImage->setGeometry(QRect(420, 240, 271, 161));
+        lblImage->setGeometry(QRect(430, 240, 271, 161));
         line = new QFrame(tab);
         line->setObjectName(QString::fromUtf8("line"));
         line->setGeometry(QRect(420, 390, 281, 20));
